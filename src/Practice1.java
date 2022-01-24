@@ -2,9 +2,9 @@ public class Practice1 {
 
     // Add and made a change
 
-    // Added another change. same change!
+    // Added another change
 
-    // This is the actual test!
+    // made a third change
 
 
 }
